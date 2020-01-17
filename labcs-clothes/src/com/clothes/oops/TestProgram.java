@@ -1,0 +1,12 @@
+
+
+package com.clothes.oops;
+
+class TestProgram
+{
+public static void main(String []args)
+{
+System.out.println("This is Deloitte classroom Training!");
+}
+}
+
